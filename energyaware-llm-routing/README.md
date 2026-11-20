@@ -26,7 +26,7 @@ Final-year project by Laxit (B.Tech CSE, AI Specialization, Shoolini University)
 ## Demo
 
 `docs/index.html` is a self-contained page that replays the 400 GSM8K questions. Move a slider to trade accuracy for energy and compare the router with fixed policies.
-After enabling GitHub Pages (Settings -> Pages -> Deploy from branch -> `main` -> `/docs`) it is served at `https://laxit001.github.io/<repo-name>/`.
+After enabling GitHub Pages (Settings -> Pages -> Deploy from branch -> `main` -> `/docs`) it is served at `https://laxit001.github.io/EnergyWare/`.
 
 ## Repository layout
 
